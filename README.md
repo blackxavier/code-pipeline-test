@@ -6,3 +6,7 @@
 
 ![Code Pipeline Diagram](https://github.com/blackxavier/code-pipeline-test/blob/main/assets/img/code-pipeline.png "a title")
 
+# LINK
+
+#### Link to my static portfolio website
+[Portfolio Website](http://arinze-static-website.s3-website-us-east-1.amazonaws.com/)
