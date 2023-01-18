@@ -1,4 +1,4 @@
-# AWS code pipeline with s3 and github demonstration
+# AWS code pipeline with S3 and github demonstration
 #### After every commit, AWS code pipeline picks up the updated code and sends it to AWS S3
 
 # Diagram Below
